@@ -1,0 +1,23 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav4125/Cron-Job.git"
+  },
+  "author": "Sourav Misra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav4125/Cron-Job/issues"
+  },
+  "homepage": "https://github.com/sourav4125/Cron-Job#readme",
+  "dependencies": {
+    "cron": "^2.2.0",
+    "node-modules": "^1.0.1"
+  }
+}
